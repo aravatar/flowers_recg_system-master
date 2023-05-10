@@ -1,0 +1,18 @@
+QLineEdit{
+    border:0px;    
+    margin:0px;
+    margin-left:10px; 
+    margin-right:10px;
+    border-bottom: 1px solid #B3B3B3;
+    font-family:'Microsoft YaHei';
+    font-size:20px;
+    font-weight:bold;
+    }
+
+QLineEdit:hover{
+    border-bottom: 3px solid #66A3FF;
+    }
+
+QLineEdit:focus{
+    border-bottom: 3px solid #E680BD;
+    }
